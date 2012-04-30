@@ -1,5 +1,5 @@
 h3. Attribute Normalizer
 
-Forked from "mdeering/normalize_attributes":https://github.com/mdeering/attribute_normalizer
+Forked from "mdeering/attribute_normalizer":https://github.com/mdeering/attribute_normalizer
 
 Removed call to normalize default attributes on all classes on load due to a project conflict
