@@ -3,3 +3,8 @@ h3. Attribute Normalizer
 Forked from "mdeering/attribute_normalizer":https://github.com/mdeering/attribute_normalizer
 
 Removed call to normalize default attributes on all classes on load due to a project conflict
+
+h4. Tests
+
+To run all tests: <code>bundle exec rspec</code>
+
