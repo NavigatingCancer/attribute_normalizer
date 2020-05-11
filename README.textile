@@ -7,4 +7,3 @@ Removed call to normalize default attributes on all classes on load due to a pro
 h4. Tests
 
 To run all tests: <code>bundle exec rspec</code>
-
