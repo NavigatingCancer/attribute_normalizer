@@ -8,4 +8,7 @@ class Article < ActiveRecord::Base
     value.present? && value.is_a?(String) ? value.downcase.gsub(/\s+/, '-') : value
   end
 
+  normalize_attribute :title
+
+  normalize_attribute :authors
 end
