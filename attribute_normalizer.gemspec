@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name = %q{attribute_normalizer}
   s.version =AttributeNormalizer::VERSION
 
-  s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
+  s.required_rubygems_version = Gem::Requirement.new(">= 2.3.8") if s.respond_to? :required_rubygems_version=
   s.authors = ["Michael Deering"]
   s.date = %q{2011-07-28}
   s.email = %q{mdeering@mdeering.com}

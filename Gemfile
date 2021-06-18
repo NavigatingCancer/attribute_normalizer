@@ -10,5 +10,6 @@ group :development do
   gem 'mongoid'
   gem 'rake'
   gem 'rspec'
+  gem 'sqlite3', '~>1.3.5'
   gem 'sqlite3-ruby'
 end
